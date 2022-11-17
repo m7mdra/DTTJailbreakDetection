@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage         = "https://github.com/thii/DTTJailbreakDetection"
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { "Thi Doãn" => "t@thi.im" }
-  s.source           = { :git => "https://github.com/thii/DTTJailbreakDetection.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/m7mdra/DTTJailbreakDetection.git", :tag => s.version.to_s }
 
   s.platform     = :ios, '5.0'
   s.ios.deployment_target = '5.0'
